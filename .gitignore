@@ -1,3 +1,4 @@
 /env
 .env
 .venv
+/my_env
