@@ -2,3 +2,12 @@
 .env
 .venv
 /my_env
+.DS_Store
+local.properties
+**/*.iml
+.gradle
+.idea/
+.externalNativeBuild
+build
+# ignore ptl files
+*.ptl
